@@ -1,0 +1,3 @@
+Good job for finding the second PV{Hash_2} flag!
+So far you've cracked my cipher and hacked the #gibson! 
+Once you get this cracked you should do some more digging where you found the first flag!
